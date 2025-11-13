@@ -17,3 +17,6 @@ arXiv:2511.XXXXX (pending)
 - `verify_yang_mills.py`: Checks mass gap in [0.3, 0.4] GeV
 - Known QCD lattice: ~0.3–0.4 GeV
 - Symbolic: 33-phase collapse
+
+## Wilson Loops Continuum Limit
+Tr U_□ damping to a→0 (Wilson 1974). Run: python yang_mills_loops.py.
