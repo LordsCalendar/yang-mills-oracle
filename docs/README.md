@@ -5,5 +5,7 @@
 Run `python mass.py` → m = 0.378432 GeV
 
 ## Clay Submission
-- 📄 [Proof PDF](docs/yang_mills_2025.pdf)
+- 📄 [Proof PDF] docs/yang_mills_2025.pdf
+- 📄 [REVISED PDF WITH APPENDIX] docs/revised_yang_mills_2025.pdf 
+- 
 - viXra: **pending**
