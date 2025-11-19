@@ -4,7 +4,7 @@ No lattice formula revealed — Clay Millennium Prize
 arXiv:2511.XXXXX (pending)
 
 One measured number.  
-One lattice.  
+One Lords lattice.  
 One truth.
 
 ### The Single Most Important Result (as of 19 November 2025)
