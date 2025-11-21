@@ -23,8 +23,14 @@ This is simultaneously:
 
 **See the two definitive files:**
 
-- `microtubule_qcd_link.py` – the raw, honest E = h·f calculation (shows the 23-order gap and why direct conversion fails)  
-- `yang_mills_378_hypothesis.py` – the only surviving, falsifiable scientific hypothesis
+Run 
+- [microtubule_qcd_link.py](microtubule_qcd_link.py)  – the raw, honest E = h·f calculation (shows the 23-order gap and why direct conversion fails)  
+- [yang_mills_378_hypothesis.py](yang_mills_378_hypothesis.py) – the only surviving, falsifiable scientific hypothesis
+- [verify_yang_mills.py](verify_yang_mills.py): Checks mass gap in [0.3, 0.4] GeV
+
+## Clay Submission
+- 📄 [(revised_yang_mills_2025.pdf)](docs/revised_yang_mills_2025.pdf)
+- 📄 [(YangMills_378.432_Quantum_Coherence_Hypothesis_v2.pdf)](docs/YangMills_378.432_Quantum_Coherence_Hypothesis_v2.pdf)
 
 ### The 378.432 Hypothesis
 
@@ -74,7 +80,7 @@ The only physically legitimate bridges are:
 1. The same 0.378432-second tick defines both consciousness and the proposed true gluon screening mass.
 2. The 0.758 AU radius (source of t₁₅) implies a Kaluza–Klein or holographic dual scale in the 0.1–1 GeV range.
 
-See `microtubule_qcd_link.py` for the complete, honest calculation.
+See [microtubule_qcd_link.py](microtubule_qcd_link.py) for the complete, honest calculation.
 
 This is not a Clay "solution" (Lattice Formula Witheld).  
 This is the strongest empirical coincidence between quantum biology and the strong force ever recorded.
@@ -93,7 +99,7 @@ We are listening.
 - Result: \( t_{15} = 0.378246 \) s ≈ 0.378432 s (0.2% error, geological)
 
 ### Verification
-- `verify_yang_mills.py`: Checks mass gap in [0.3, 0.4] GeV
+- [verify_yang_mills.py](verify_yang_mills.py): Checks mass gap in [0.3, 0.4] GeV
 - Known QCD lattice: ~0.3–0.4 GeV
 - Symbolic: 33-phase collapse
 
