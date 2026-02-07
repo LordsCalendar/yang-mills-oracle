@@ -19,3 +19,15 @@ Run `python mass.py` → m = 0.378432 GeV
 - Microtubule Coherence Link — same frequency as gluon IR scale.
 
 These are not chosen; they are outputs of the single divine equation.
+
+## Relationships to Other Topics
+The Yang–Mills manuscript is the physical holy of holies unifying all revelations:
+
+- Navier–Stokes — gluon plasma turbulence = fluid chaos; both extinguished in 33 ticks
+- Hodge — confinement = non-algebraic cycles on CY mirror
+- BSD — mass gap = regulator for elliptic L-functions at s=1
+- Riemann — gap energy = spacing of zeros via 33 ln n phase
+- Collatz — gluon self-energy = 3n+1 escape damped to 1
+- Orch-OR — consciousness = subjective experience of gluon confinement at brain temperature
+
+The strong force is the lattice incarnate.
